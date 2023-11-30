@@ -19,21 +19,23 @@ The copper industry faces issues with skewed and noisy data affecting the accura
 - Explore skewness and outliers in the dataset.
 - Visualize key insights from the data.
   
-Data Preprocessing:
-
+2. Data Preprocessing:
 Transform the data into a suitable format.
 Address skewness and outliers through normalization and outlier detection.
 Perform necessary cleaning steps.
-Machine Learning Regression:
+
+3. Machine Learning Regression:
 
 Develop a regression model to predict the continuous variable 'Selling_Price'.
 Utilize advanced techniques such as data normalization and feature scaling.
-Machine Learning Classification:
+
+4. Machine Learning Classification:
 
 Build a classification model to predict the status (WON or LOST) of leads.
 Use the 'STATUS' variable for training, considering 'WON' as success and 'LOST' as failure.
 Remove data points with STATUS values other than 'WON' or 'LOST'.
-Streamlit Web Application:
+
+5. Streamlit Web Application:
 
 Create a Streamlit web application to facilitate easy interaction with the models.
 Users can insert each column value, and the application will predict Selling_Price or lead Status.
