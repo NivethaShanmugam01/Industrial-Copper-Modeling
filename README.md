@@ -6,7 +6,7 @@ The Industrial Copper Modeling project aims to address challenges in the copper 
 ## Skills Developed
 - Python Scripting
 - Data Preprocessing
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 Machine Learning Regression
 Machine Learning Classification
 Streamlit for Web Application Development
