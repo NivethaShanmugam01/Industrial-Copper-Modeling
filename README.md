@@ -11,6 +11,9 @@ The Industrial Copper Modeling project aims to address challenges in the copper 
 - Machine Learning Classification
 - Streamlit for Web Application Development
 
+Problem Statement
+The copper industry faces issues with skewed and noisy data affecting the accuracy of manual predictions. The project seeks to automate and optimize pricing decisions through the use of machine learning regression models. Additionally, a lead classification model is developed to evaluate and classify leads based on the likelihood of conversion.
+
 
 
 
