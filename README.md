@@ -16,15 +16,16 @@ The copper industry faces issues with skewed and noisy data affecting the accura
 
 ### Solution Steps
 1. Exploratory Data Analysis (EDA):
-- Explore skewness and outliers in the dataset.
-- Visualize key insights from the data.
+
+Explore skewness and outliers in the dataset.Visualize key insights from the data.
   
 2. Data Preprocessing:
+   
 Transform the data into a suitable format.
 Address skewness and outliers through normalization and outlier detection.
 Perform necessary cleaning steps.
 
-3. Machine Learning Regression:
+4. Machine Learning Regression:
 
 Develop a regression model to predict the continuous variable 'Selling_Price'.
 Utilize advanced techniques such as data normalization and feature scaling.
