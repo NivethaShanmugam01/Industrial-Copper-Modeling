@@ -8,7 +8,7 @@ The Industrial Copper Modeling project aims to address challenges in the copper 
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Machine Learning Regression
-Machine Learning Classification
+- Machine Learning Classification
 Streamlit for Web Application Development
 
 
